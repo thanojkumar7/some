@@ -39,9 +39,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:nandudemy/devops.git</connection>
-		<developerConnection>scm:git:git@github.com:nandudemy/devops.git</developerConnection>
-		<url>git@github.com:nandudemy/devops.git</url>
+		<connection>scm:git:git@github.com:mopunath/udemy.git</connection>
+		<developerConnection>scm:git:git@github.com:mopunath/udemy.git</developerConnection>
+		<url>git@github.com:mopunath/udemy.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
